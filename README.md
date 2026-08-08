@@ -16,7 +16,7 @@ I'm currently using projects to practice SQL outside my 9-5.<br><br>I'm interest
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=httpsjennifer&icon=7&color=10)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=httpsjennifer&icon=7&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 - 💬 Ask me about **MY PROJECTS**
